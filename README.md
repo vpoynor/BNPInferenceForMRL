@@ -12,7 +12,7 @@ This repository contains the R code for the model presented in the following pap
 The model proposed in this paper is a Dirichlet Process Mixture Model using a Gamma kernel distribution.  The primary aim of the paper is to infer on the Mean Residual Life (MRL) function.  
 
 Here, we provide the code and data used in the analysis of a dataset describing the survival times
-(in days) of patients with small cell lung cancer (Ying et al., 1995). The patients were randomly assigned to
+(in days) of patients with small cell lung cancer.  These data are described in (Ying et al., 1995) and originally collected in (Maksymuik et al., 1994). The patients were randomly assigned to
 one of two treatments referred to as Arm A and Arm B. Arm A patients received cisplatin (P)
 followed by etoposide (E), while Arm B patients received (E) followed by (P). There were a total
 of 62 patients in Arm A with 15 right censored survival times, while Arm B consisted of 59
