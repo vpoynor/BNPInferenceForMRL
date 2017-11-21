@@ -31,5 +31,15 @@ The code is written in the R language andis broken up into two parts:
 
 *ArmAArmBGammaDPMMPart2.R* provides the algorithm to obtain posterior samples of the survival functionals
 
+# References
+
+Jett, R, J D Earle, J Q Su, F A Diegert, J A Mailliard, C G Kardinal, J E Krook, M H Veeder, and M Wiesenfeld. Sequencing and schedule effects of cisplatin plus etoposide in small-cell lung cancer: results of a North Central Cancer Treatment Group randomized clinical trial. A W Maksymiuk, J Journal of Clinical Oncology 1994 12:1, 70-76
+
+Poynor V. and Kottas A. (2017). Nonparametric Bayesian Inference for Mean Residual Life Functions in Survival Analysis. Submitted to Biostatistics. arXiv:1411.7481 [stat.ME].
+
+Ying, Z., S. H. Jung and L. J. Wei. Survival Analysis with Median Regression Models. Journal of the American Statistical Association, Vol. 90, No. 429 (Mar., 1995), pp.178-184
+
+
+
 
 
