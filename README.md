@@ -20,6 +20,11 @@ patients with 8 right censored survival times.
 
 The data can be found in the files: *ArmA.txt* and *ArmB.txt*
 
+The variables recorded in the dataset(s) are:
+* age: age of the patient upon entry (in years)
+* time: survival time of the patient (in days)
+* cens: indicator for survival time - 0 if observed, 1 if right censored
+
 The code is written in the R language andis broken up into two parts:
 
 *ArmAArmBGammaDPMMPart1.R* provides the MCMC algorithm to obtain posterior samples of the model parameters
