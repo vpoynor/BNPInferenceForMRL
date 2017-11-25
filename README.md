@@ -21,7 +21,7 @@ Under the truncated stick-breaking constructive definition of the DP, the MRL fu
 
 ![MRL](/images/MRL.gif)
 
-Note that the Gamma MRL finction can be simplified to 
+Note that the Gamma MRL function can be simplified to 
 
 ![MRL2](/images/MRL2.gif)
 
